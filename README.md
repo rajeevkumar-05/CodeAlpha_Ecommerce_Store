@@ -231,5 +231,5 @@ frontend attaches this automatically via an Axios interceptor.
 ---
 
 ## License
-
+this project i build for the codeAlpha internship but it is fake 
 MIT — built for the CodeAlpha Full Stack Development internship.
